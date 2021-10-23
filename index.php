@@ -31,11 +31,11 @@ include('header.php');
                <div class="shadow border-rounded my-5">
                   <h4 class="mx-4 mx-4 my-5 text-center">HOW TO VOTE</h4>
                   <p class="mx-4">This apppliction has been designed to give the user a friendly and easy to  navigate interface.<br> <br>
-                    <a href="how_to_vote.php">How to vote?</a></p>  
-                    <span class="mx-2">
+                   <a href="how_to_vote.php"><b>How to vote?</b></a> 
+                    <!--<span class="mx-2">
                       <a href="how_to_vote.php"><img src="img/vote1" style="width: 250px;">
                          <img src="img/vote7">
-                         <img src="img/vote4"></a>  
+                         <img src="img/vote4"></a>  -->
                     </span>
                </div>
                
@@ -45,18 +45,18 @@ include('header.php');
                       <ol>
                            <li>Update profile picture.</li>
                            <li>View all contestant before voting.</li>
-                           <!--<li>Chatting with other registered users.</li>-->
+                           <li>View reviews from other registered users.</li>
                            <li>etc......</li>
                       </ol>
                  </div>
      			</div>
-                    <div class="col-md-3 my-5">
-                         <a href="signup.php"> <img src="img/signup3.jpg" class="my-4"></a>
+                   <!-- <div class="col-md-3 my-5">
+                         <a href="signup.php"> <img src="images/6.png" class="my-4"></a>
                          <img src="img/vote1"  class="my-4">
                          <img src="img/vote3" class="my-4">
                          <img src="img/vote5" class="my-4">
                          <img src="img/vote6" class="my-4">
-                    </div>
+                    </div>-->
      		</div>
      	</div>
      </div>
