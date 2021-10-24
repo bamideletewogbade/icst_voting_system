@@ -43,7 +43,7 @@ $con = mysqli_connect("localhost","root","","search");
 <head>
 	<title></title>
 </head>
-<body style="background-image: url(ok.jpg); background-repeat: no-repeat;background-size: cover;">
+<body style="background-image: url(images/7.jpg); background-repeat: no-repeat;background-size: cover;">
 
 
 <div class="container-fluid">

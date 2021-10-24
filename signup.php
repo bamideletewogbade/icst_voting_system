@@ -92,7 +92,7 @@ if (isset($_POST['signup'])) {
 <head>
 	<title>Voting System</title>
 </head>
-<body style="background-image: url(ok.jpg); background-repeat: no-repeat;background-size: cover;">
+<body style="background-image: url(images/7.jpg); background-repeat: no-repeat;background-size: cover;">
 	<div style="margin-top: 100px;"></div>
 <div class="col-md-12">
 	<div class="row">
